@@ -2,3 +2,4 @@ Versionamento do código
 Otimização do trabalho da equipe
 Flexibilidade de poder utilizá-lo a qualquer hora e em qualquer lugar
 Segurança
+Entregas continuas
