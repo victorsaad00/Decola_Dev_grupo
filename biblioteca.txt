@@ -1,0 +1,12 @@
+git clone
+git status 
+git push 
+git branch
+git checkout 
+git pull
+git commit -m
+git add * ou add .
+clear
+ls
+cd
+git init
